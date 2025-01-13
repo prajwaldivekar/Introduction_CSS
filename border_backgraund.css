@@ -4,3 +4,6 @@
 .double{
     border-style: double;
 }
+.outset{
+    border-style: outset;
+}
