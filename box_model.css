@@ -1,6 +1,10 @@
 .container{
-    background-color: rgb(169, 129, 207);
+    background-color: rgb(186 163 208);
     border: 2px;
     padding: 12px;
-    
+    margin: 12px;
+
+}
+#first{
+    font-family: cursive;
 }
